@@ -1,4 +1,4 @@
-I took a class in my graduate school,american Health Care system where in we were taught about the whole insurance system in the United Stated,having studying that in dept,promted me to carry out this project.
+I took a class in my graduate school,American Health Care system where in we were taught about the whole insurance system in the United Stated,having studying that in dept,promted me to carry out this project.
 
 Healthcare_Insurance_Fraud_Detection using Binary Classification :Logistic regression
 
